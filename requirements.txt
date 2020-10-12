@@ -1,5 +1,5 @@
 opencv-python
-numpy
-scipy
+numpy==1.16.6
+scipy==1.4.1
 dlib
 imutils
