@@ -4,6 +4,7 @@
 
 Following python libraries has to be installed on your device in a virtual environment.
 ```
+sudo apt install libatlas3-base
 pip install -r requirements.txt
 ```
 When you install dlib you may have to install cmake as well.
