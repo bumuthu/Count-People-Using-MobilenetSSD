@@ -4,10 +4,7 @@
 
 Following python libraries has to be installed on your device in a virtual environment.
 ```
-● opencv-python
-● numpy
-● dlib
-● imutils
+pip install -r requirements.txt
 ```
 When you install dlib you may have to install cmake as well.
 I developed the code using ​Python 3.8​ interpreter. If you have other Python 3 version, I am not
